@@ -7,3 +7,8 @@
     - **CSS-in-JS** Styling with **“Styled Components”**
     - Styling with **Tailwind CSS**
     - Static & **Dynamic (Conditional)** Styling
+ 
+  **Resources:**
+  - https://vanillacss.com/
+  - https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
+  - https://styled-components.com/
