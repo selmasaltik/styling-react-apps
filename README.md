@@ -5,6 +5,10 @@
     - Styling with **Vanilla CSS**
     - **Scoping** Styles with **CSS Modules**
     - **CSS-in-JS** Styling with **“Styled Components”**
+        - Creating Flexible Components with Styled Components
+        - Dynamic & Conditional Styling with Styled Components
+        - Styled Components: Pseudo Selectors, Nested Rules & Media Queries
+        - Creating Reusable Components & Component Combinations
     - Styling with **Tailwind CSS**
     - Static & **Dynamic (Conditional)** Styling
  
