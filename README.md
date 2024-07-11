@@ -13,3 +13,4 @@
   - https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
   - https://styled-components.com/
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+  - https://tailwindcss.com/
